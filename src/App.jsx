@@ -1,4 +1,5 @@
 // This file contains the website's content and component structure
+// amanda was here 
 import './App.css'
 import profileImage from './assets/Profile.jpeg'
 
